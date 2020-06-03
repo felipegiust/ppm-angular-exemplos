@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ppm-angular-exemplos"
+    }
+  },
+  "defaultProject": "ppm-angular-exemplos",
+  "cli": {
+    "analytics": "65f4caff-20db-492a-bd00-a538be6b4a7b"
+  }
 }
